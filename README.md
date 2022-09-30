@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 This is a dynamics 365 Plugin that is registered on the create
-step of a lead entity.  It will create a follow up dask 7 days out.
+step of a lead entity.  It will create a follow up task 7 days out.
 
 
 ### Built With
